@@ -2,7 +2,7 @@
 
 ## I'm a Business Analyst that loves to code!!
 
-- 🔭 Check out my [Resume](file:///C:/Users/Bryan/Desktop/RESUME/RESUME.pdf)!
+- 🔭 Check out my [Resume](https://github.com/BryanVernon/resume/blob/main/One%20page%20RESUME.pdf)!
 - ☁️ I’m currently learning about Cloud Computing Software
 - 🏖️ Fun fact: I'm from Miami and I love the beach 
 
