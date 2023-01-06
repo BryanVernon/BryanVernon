@@ -9,33 +9,10 @@
 ### Connect with me:
 
 
-<div class="social-icons">
-            <div class="social-icons-image">
-                <a href="http://www.instagram.com">
-                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.facebook.com">
-                    <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.twitter.com">
-                    <img src="http://jonbennallick.co.uk/wp-content/uploads/2012/11/Twitter-Logo-Icon-by-Jon-Bennallick-02-300x300.png" alt="Twitter Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://plus.google.com">
-                    <img src="http://www.androidpolice.com/wp-content/uploads/2013/06/nexusae0_g.png" alt="Google Plus Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.linkedin.com">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-                </a>
-            </div>
-        </div>
+<p align="left">
+<a href="https://twitter.com/bryanvernon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bryanvernon_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bryanvernon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryanvernon" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
