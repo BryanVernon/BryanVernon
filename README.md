@@ -5,7 +5,7 @@
 - 🔭 Check out my [Resume](https://github.com/BryanVernon/resume/blob/main/RESUME.pdf)
 - ✅ [Here](https://github.com/BryanVernon/Certifications) is a repository with my coding certifications
 - ☁️ I’m currently learning about Cloud Computing Software
-- 🏖️ Fun fact: I'm from Miami and I love the beach 
+- 🏖️ Fun fact: I was born in Argentina but I am from Miami and I love the beach!
 
 ### Connect with me:
 
