@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan 👋 
 
-## I'm a Business Analyst that loves to code!
+## I'm a Business Analyst who also loves to code!
 
 - 🔭 Check out my [Resume](https://github.com/BryanVernon/resume/blob/main/RESUME.pdf)
 - ✅ [Here](https://github.com/BryanVernon/Certifications) is a repository with my coding certifications
