@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan 👋 
 
-- 🔭 Check out my [Resume](https://github.com/BryanVernon/resume/blob/main/RESUME.pdf)
+- 🔭 Check out my [Resume](https://github.com/BryanVernon/resume)
 - ✅ [Here](https://github.com/BryanVernon/Certifications) is a repository with my coding certifications
 - ☁️ I’m currently learning about Cloud Computing Software
 - 🏖️ Fun fact: I was born in Argentina but I am from Miami and I love the beach!
